@@ -1,2 +1,1 @@
-# auto_system_collector
-A Python script that collects system information.
+a python script that collects system information.
